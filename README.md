@@ -1,1 +1,1 @@
-# Company-LLMs-Prompt-assignment
+AI-ML-Prompt-Engineering-Lab
