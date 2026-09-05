@@ -1,1 +1,1 @@
-# Company-LLM-s-Prompt-assignment
+# Company-LLMs-Prompt-assignment
